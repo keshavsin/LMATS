@@ -1,1 +1,28 @@
 /* Please add all your styles in this file */
+#myform .content {
+  max-width: 360px;
+    margin: 0 auto;
+}
+.icon-forward {
+
+}
+#myform .k-block{
+border-color: #f2f2f2;
+    font-size: 14px;
+    background: #fff;
+    padding: 15px;
+    box-shadow: 0px 0px 8px 4px #ddd;
+}
+#myform .k-block div.span6{
+    margin-right: initial;
+}
+.alert-error {    font-size: 12px;
+    text-align: center;
+    padding: 5px 10px;
+    min-height: inherit;}
+
+.tbl_btns .btn-info{
+border: 1px solid #f26b31;
+    color: #fff;
+    background: linear-gradient(to bottom, #ff483a 0%,rgb(242, 107, 49) 100%);
+}
