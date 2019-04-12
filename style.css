@@ -148,11 +148,6 @@ div#data_table_blue_wrapper a.paginate_button {background:#fff;}
     width: 90%;
 }
 
-
-
-
-
-
 /* css for http://18.217.242.245/oms/jobCntrl/ */
 body:first-child div.container {
     background: #f7b733;
@@ -179,7 +174,6 @@ body:first-child div.container .navbar-default {
     background: none !important;
     border: 0px;
     width: 90%;
-}
 }
 body:first-child div.container .navbar-default .container {
     width: 90%;
