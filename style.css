@@ -247,7 +247,7 @@ body:first-child div.container .navbar-default, .navbar-default {
     text-align: left;
     margin-bottom: 0px;margin-bottom:0px;
 }
-body:first-child div.container .navbar-default .container {
+body:first-child div.container .navbar-default .container, .navbar.navbar-default .container {
     width:100%;
 }
 .navbar-default .navbar-collapse {
