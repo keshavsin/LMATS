@@ -300,3 +300,11 @@ fieldset.scheduler-border {
 legend.scheduler-border {
     padding: 0 0px !important;
 }
+.panel-info>.panel-heading {
+    color: #fc4b1a;
+    background-color: rgba(252, 74, 26, 0.1);
+    border-color: rgba(252, 74, 26, 0.1);
+}
+.panel-info {
+    border-color: #ffdbd2;
+}
