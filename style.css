@@ -249,6 +249,7 @@ body:first-child div.container .navbar-default, .navbar-default {
 }
 body:first-child div.container .navbar-default .container, .navbar.navbar-default .container {
     width:100%;
+    padding: 0px;
 }
 .navbar-default .navbar-collapse {
     padding-left: 0px;
