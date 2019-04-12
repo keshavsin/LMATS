@@ -180,7 +180,7 @@ table.data_table thead th:last-child {
     border-radius: 0px 6px 0 0px;
 }
 div#data_table_blue_wrapper.dataTables_wrapper {
-    border: 0px solid #94c0d2;box-shadow: 0px 0px 6px 2px #ddd;background-color: #f2f2f2;
+    border: 0px solid #94c0d2;box-shadow: 0px 0px 6px 2px #ddd;background-color: #fff;
 }
 div#data_table_blue_wrapper table.pretty tbody tr td {
     padding: 10px 10px;font-size: 11px;
@@ -261,4 +261,12 @@ body:nth-child(2) div.container row{
 }
 .h4, h4 {
     font-size: 14px;
+}
+.well {
+    padding:0px;
+    background-color:none;
+    border:0px solid #ddd;
+}
+.table-striped>tbody>tr:nth-of-type(odd),.table-striped>tbody>tr:hover {
+    background-color: rgba(251, 94, 31, 0.1);
 }
