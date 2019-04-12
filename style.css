@@ -287,6 +287,15 @@ div#data_table_blue_wrapper div.dataTables_info {
     margin: 20px 0px;
     color: #fc4b1a;
 }
-.btn-group-sm>.btn, .btn-sm {
-    padding: 2px 8px;
+table.dataTable {
+    border-collapse: collapse !important;
+}
+fieldset.scheduler-border {
+    margin: 0px -15px 30px -15px !important;
+    background: #fff;
+    border-bottom: 1px solid #ddd !important;
+    padding-bottom: 10px !important;;
+}
+legend.scheduler-border {
+    padding: 0 0px !important;
 }
