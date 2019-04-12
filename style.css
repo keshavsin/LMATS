@@ -176,7 +176,7 @@ body:first-child div.container .row .col-md-6.pull-right {
     padding-right: 0px;
 }
 body:first-child div.container .navbar-default {
-    background: none;
+    background: none !important;
     border: 0px;
     width: 90%;
 }
